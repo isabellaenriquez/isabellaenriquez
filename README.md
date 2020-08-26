@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **isabellaenriquez/isabellaenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+``` js
+const isabella = {
+  pronouns: ["she", "her"],
+  location: "Canada",
+  position: "Student!",
+  studying: [ "CS", "Software Design" ],
+  languages: [ Java, Python, JavaScript, HTML, CSS, SQL ],
+  frameworks: [ Flask, Django ],
+  interestedIn: [ "web development", "software development", "game development" ], 
+}
+```
