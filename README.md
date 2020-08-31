@@ -21,6 +21,7 @@ const isabella = {
   studying: [ "CS", "Software Design" ],
   languages: [ Java, Python, JavaScript, HTML, CSS, SQL ],
   frameworks: [ Flask, Django ],
-  interestedIn: [ "web development", "software development", "game development" ], 
+  lookingToPursue: [ "web development", "software development", "game development" ], 
+  otherInterests: [ "fashion", "geography", "history", "travel" ]
 }
 ```
