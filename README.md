@@ -22,6 +22,10 @@ const isabella = {
   languages: [ Java, Python, JavaScript, HTML, CSS, SQL ],
   frameworks: [ Flask, Django ],
   lookingToPursue: [ "web development", "software development", "game development" ], 
-  otherInterests: [ "fashion", "geography", "history", "travel" ]
+  otherInterests: [ "fashion", "geography", "history", "travel", "web design" ],
+  whereToReachMe: const socialMedia = {
+    LinkedIn: "https://www.linkedin.com/in/isabella-enriquez-9543851a0/"
+    email: "18ipe@queensu.ca"
+  }
 }
 ```
