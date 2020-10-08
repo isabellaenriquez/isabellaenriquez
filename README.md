@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<sub><sup>Pssssttt!!! This profile looks way better in dark mode 😉</sup></sub>
+
+
 ``` js
 const isabella = {
   pronouns: ["she", "her"],
