@@ -23,9 +23,10 @@ const isabella = {
   frameworks: [ Flask, Django ],
   lookingToPursue: [ "web development", "software development", "game development" ], 
   otherInterests: [ "fashion", "geography", "history", "travel", "web design" ],
-  whereToReachMe: const socialMedia = {
-    LinkedIn: "https://www.linkedin.com/in/isabella-enriquez-9543851a0/"
+}
+
+const howToReachMe = {
+    LinkedIn: "https://www.linkedin.com/in/isabella-enriquez-9543851a0/",
     email: "18ipe@queensu.ca"
-  }
 }
 ```
