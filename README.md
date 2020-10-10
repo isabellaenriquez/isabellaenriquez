@@ -38,6 +38,6 @@ const isabella = {
 - Ask me about anything above!
 
 <p float="left">
-          <a href="https://www.linkedin.com/in/isabella-enriquez-9543851a0/"><img height=100 src="https://lh3.googleusercontent.com/proxy/Ix0dJ-DSibwYQfSZTIGgqT_GTSVqiXzGBes6rgoZSVrR3TsRy_g7PooPsEZHdeykATCYDzXEr2bvjG61kwn5TBjo7_KP74vGDfJ4bPT_nNS6YVXbpZ0"></a>
+          <a href="https://www.linkedin.com/in/isabella-enriquez-9543851a0/"><img height=100 src="https://www.eriefamilyhealth.org/wp-content/uploads/2019/11/linkedin-logo-transparent.png"></a>
           <a href="mailto:18ipe@queensu.ca"><img height=100 src="https://pngimg.com/uploads/envelope/envelope_PNG18414.png"></a></div>
 </p>
