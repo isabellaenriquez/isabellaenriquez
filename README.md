@@ -28,7 +28,7 @@ const isabella = {
   otherInterests: [ "fashion", "geography", "history", "travel", "web design" ],
 }
 ```
-[![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isabellaenriquez&hide=prs,contribs&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isabellaenriquez&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaenriquez&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
