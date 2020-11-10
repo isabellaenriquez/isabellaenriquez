@@ -33,7 +33,7 @@ const isabella = {
 
 
 # Let's chat!
-- I'm currently working on school, <a href="isabellaenriquez.github.io">my personal website</a>, and HBD!& (a birthday message helper website)!
+- I'm currently working on school, <a href="https://isabellaenriquez.github.io">my personal website</a>, and HBD!& (a birthday message helper website)!
 - Ask me about anything above!
 
 <p float="left">
