@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 const isabella = {
   pronouns: ["she", "her"],
   location: "Canada",
-  position: "Student Seeking Summer 2021 SWE Internships!",
+  position: "Student + Incoming Front End Developer @ Nylas",
   studying: [ "CS", "Software Design" ],
   languages: [ Java, Python, JavaScript, HTML, CSS, SQL ],
   frameworks: [ Flask, Django ],
@@ -33,7 +33,7 @@ const isabella = {
 
 
 # Let's chat!
-- I'm currently working on school, <a href="https://isabellaenriquez.github.io">my personal website</a>, and HBD!& (a birthday message helper website)!
+- I'm currently working on school, and HBD!& (a birthday message helper website)!
 - Ask me about anything above!
 
 <p float="left">
