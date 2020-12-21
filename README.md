@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<sub><sup>Pssssttt!!! This profile looks way better in dark mode 😉</sup></sub>
-
-
-``` js
+<!--``` js
 const isabella = {
   pronouns: ["she", "her"],
   location: "Canada",
@@ -26,17 +23,24 @@ const isabella = {
   frameworks: [ Flask, Django ],
   otherInterests: [ "fashion", "geography", "history", "travel", "web design" ],
 }
-```
+```-->
+
+
+# ✨ Nice to meet you, I'm Isabella! ✨
+Let's get to know each other. Here's a little about me:
+👩‍💻 My pronouns are she/her
+🍁 I'm based in Canada!
+📚 I'm an undergrad CS Student
+🖥 I'm an aspiring Full Stack Developer, with a slight bias for Front-end and a curiosity 🧐 for Web Design 
+💡 I'm currently working on school, a client website, a little side project to improve my React skills, and an attempt at a web design portfolio
+😄 Outside of CS, you can find me advocating for Dark Mode on everything (thank you for finally listening, Github!), doing free courses I find on the Internet, playing video games (mostly life simulation--they're not so intense but very addicting), or trying to beat my record of naming 170 countries in 15 minutes from memory
+
+👋 Oh, and I also love connecting with new people 🤗 Feel free to reach out:
+📧 <a href="mailto:18ipe@queensu.ca">Email</a>
+💬 <a href="https://linkedin.com/in/isabellaenriquez">LinkedIn (in/isabellaenriquez)</a>
+🔗 <a href="https://isabellaenriquez.github.io">My Website</a>
+
+## 🧮 Some Cool Stats! 🧮
+<sub><sup>Pssssttt!!! This part looks way better in dark mode 😉</sup></sub>
 [![Isabella's github stats](https://github-readme-stats.vercel.app/api?username=isabellaenriquez&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaenriquez&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-# Let's chat!
-- I'm currently working on school, and HBD!& (a birthday message helper website)!
-- Ask me about anything above!
-
-<p float="left">
-          <a href="https://www.linkedin.com/in/isabella-enriquez-9543851a0/"><img height=100 src="https://www.eriefamilyhealth.org/wp-content/uploads/2019/11/linkedin-logo-transparent.png"></a>
-          <a href="mailto:18ipe@queensu.ca"><img height=100 src="https://pngimg.com/uploads/envelope/envelope_PNG18414.png"></a></div>
-</p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellaenriquez&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
