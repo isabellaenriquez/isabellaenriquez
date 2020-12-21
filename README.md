@@ -26,7 +26,8 @@ const isabella = {
 ```-->
 
 
-# ✨ Nice to meet you, I'm Isabella! ✨
+## ✨ Nice to meet you, I'm Isabella! ✨
+<p><i>Honours CS Student Today, Developer Tomorrow, Learner for Life</i></p>
 👩‍💻 She/Her<br>
 🍁 Based in Canada!<br>
 📚 Undergrad CS Student<br>
