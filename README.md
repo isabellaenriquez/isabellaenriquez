@@ -31,7 +31,8 @@ const isabella = {
 👩‍💻 She/Her<br>
 🍁 Based in Canada!<br>
 📚 Undergrad CS Student<br>
-🖥 Aspiring Full Stack Developer, with a slight bias for Front-end and a curiosity 🧐 for Web Design <br>
+🖥 Aspiring Full Stack Developer, with a slight bias for Front-end and a curiosity 🧐 for Web Design 
+<br><br>
 💡 Currently working on school, a client website, a little side project to improve my React skills, and an attempt at a web design portfolio<br>
 
 <p>Outside of CS, you can find me advocating for Dark Mode on everything (thank you for finally listening, Github!), doing free courses I find on the Internet, playing video games (mostly life simulation--they're not so intense but very addicting), or trying to beat my record of naming 170 countries in 15 minutes from memory.</p>
