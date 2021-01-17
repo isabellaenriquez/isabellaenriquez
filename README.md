@@ -27,7 +27,7 @@ const isabella = {
 
 
 <h1 align="center">🤝 Nice to meet you, I'm Isabella!</h1>
-<p align="center"><i>✨ I code to solve problems and beautify digtal environments.</i></p>
+<p align="center"><i>✨ I code to solve problems and beautify digital environments.</i></p>
 <h4><strong>🙆‍♀️ Get to know me!</strong></h4>
 
 - 👩‍💻 My pronouns are she/her
