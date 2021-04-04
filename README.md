@@ -34,7 +34,7 @@ const isabella = {
 - 🍁 Based in Canada!
 - 📚 Undergrad CS Student
 - 🖥 Aspiring Full Stack Developer, with a slight bias for frontend and a curiosity 🧐 for web design 
-- 💡 Currently working on school, a client website, and a fun little side project to improve my frontend skills
+- 💡 Currently working on school and learning some new frontend frameworks!
 
 
 <details>
