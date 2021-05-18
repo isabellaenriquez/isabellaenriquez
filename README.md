@@ -1,31 +1,3 @@
-<!--
-**isabellaenriquez/isabellaenriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--``` js
-const isabella = {
-  pronouns: ["she", "her"],
-  location: "Canada",
-  position: "Student + Incoming Front End Developer @ Nylas",
-  studying: [ "CS", "Software Design" ],
-  languages: [ Java, Python, JavaScript, HTML, CSS, SQL ],
-  frameworks: [ Flask, Django ],
-  otherInterests: [ "fashion", "geography", "history", "travel", "web design" ],
-}
-```-->
-
-
 <h1 align="center">🤝 Nice to meet you, I'm Isabella!</h1>
 <p align="center"><i>✨ I code to solve problems and beautify digital environments.</i></p>
 <h4><strong>🙆‍♀️ Get to know me!</strong></h4>
@@ -34,7 +6,7 @@ const isabella = {
 - 🍁 Based in Canada!
 - 📚 Undergrad CS Student
 - 🖥 Aspiring Full Stack Developer, with a slight bias for frontend and a curiosity 🧐 for web design 
-- 💡 Currently working on school and learning some new frontend frameworks!
+- 💡 Latest adventure: Frontend Developer Intern @ Nylas!
 
 
 <details>
