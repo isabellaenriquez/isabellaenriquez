@@ -5,7 +5,7 @@
 - 👩‍💻 My pronouns are she/her
 - 🍁 Based in Canada!
 - 📚 Undergrad CS Student
-- 🖥 Aspiring Full Stack Developer, with a slight bias for frontend and a curiosity 🧐 for web design 
+- 🖥 Aspiring Full Stack Developer -- I'm a Web Dev, Design, and Accessibility enthusiast (with a bias for frontend)
 - 💡 Latest adventure: Frontend Developer Intern @ Nylas!
 
 
@@ -17,4 +17,4 @@
 </details>
 
 <p>👋 By the way, I love connecting with new people! Whether you want to talk about tech, life, philosophy, or whatever, feel free to reach out!</p>
-<p><a href="mailto:18ipe@queensu.ca"><img src="https://img.shields.io/badge/18ipe@queensu.ca-32936F?&style=for-the-badge&logo=microsoft-outlook"></a><a href="https://www.linkedin.com/in/isabellaenriquez"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://isabellaenriquez.github.io"><img src="https://img.shields.io/badge/isabellaenriquez.github.io-EF476F?&style=for-the-badge"></a></p>
+<p><a href="mailto:isabella.enriquez@queensu.ca"><img src="https://img.shields.io/badge/isabella.enriquez@queensu.ca-32936F?&style=for-the-badge&logo=microsoft-outlook"></a><a href="https://www.linkedin.com/in/isabellaenriquez"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://isabellaenriquez.github.io"><img src="https://img.shields.io/badge/isabellaenriquez.github.io-EF476F?&style=for-the-badge"></a></p>
