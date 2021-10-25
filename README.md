@@ -6,13 +6,14 @@
 - 🍁 Based in Canada!
 - 📚 Undergrad CS Student
 - 🖥 Aspiring Full Stack Developer -- I'm a Web Dev, Design, and Accessibility enthusiast (with a bias for frontend)
-- 💡 Latest adventure: Frontend Developer Intern @ Nylas!
+- 🎞 Last adventure: Frontend Developer Intern @ Nylas
+- 🚀 Latest adventure: TBA soon! 🤫
 
 
 <details>
   <summary>🧮 <strong>Some fun stats!</strong></summary>
   <sub><sup>Pssssttt!!! This part looks way better in dark mode 😉</sup></sub><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=isabellaenriquez&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight&hide_border=true"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=isabellaenriquez&count_private=true&hide=prs,issues&show_icons=true&theme=tokyonight&hide_border=true"></a>
 </details>
 
 <p>👋 By the way, I love connecting with new people! Whether you want to talk about tech, life, philosophy, or whatever, feel free to reach out!</p>
