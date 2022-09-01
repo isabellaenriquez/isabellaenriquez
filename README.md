@@ -3,7 +3,7 @@
 ![Linkedin Cover](https://user-images.githubusercontent.com/45607721/150543852-2dc29c77-3e22-4956-ad59-2f3b079b8edc.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-isabellaenriquez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellaenriquez/)](https://www.linkedin.com/in/isabellaenriquez/)
-[![Website Badge](https://img.shields.io/badge/-isabellaenriquez.tech-121212?style=flat&logo=Google-Chrome&logoColor=white&link=https://isabellaenriquez.tech)](https://isabellaenriquez.tech)
+[![Website Badge](https://img.shields.io/badge/-www.isabellaenriquez.com-121212?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.isabellaenriquez.com)](https://www.isabellaenriquez.com)
 [![Outlook Badge](https://img.shields.io/badge/-isabella.enriquez@queensu.ca-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:isabella.enriquez@queensu.ca)](mailto:isabella.enriquez@queensu.ca)
 [![Gmail Badge](https://img.shields.io/badge/-isabellapenriquez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isabellapenriquez@gmail.com)](mailto:isabellapenriquez@gmail.com)
 ![GitHub Badge](https://img.shields.io/github/followers/isabellaenriquez?label=follow%20me%20%3A%29&style=social)
